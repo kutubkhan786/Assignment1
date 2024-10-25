@@ -1,0 +1,14 @@
+.MuiGrid-container {
+    background-color: rgb(187, 223, 255);
+    display: block;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.MuiPagination-root {
+    background-color: rgb(187, 223, 255);
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
